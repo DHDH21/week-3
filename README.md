@@ -1,7 +1,7 @@
 # Random Password Generator
 
 ## Purpose
-You do not need to worry about making new password! We do it for you!
+Don't worry about making new password every single time! We do it for you!
 
 ## Built With
 * HTML
