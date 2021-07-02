@@ -1,5 +1,5 @@
 // Assignment code here
-
+var answer = window.confirm("Do you eat meat?"); 
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
