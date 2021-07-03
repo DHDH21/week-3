@@ -2,7 +2,7 @@
 function getpassword(){
 var key_value = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*_-+="
 
-var password_length = 16;
+var password_length = 12;
 var create_result = "";
 for (var i=0; i<password_length; i++){
     var generate_ramdon_number = Math.floor(Math.random() * key_value.length);
